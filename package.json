@@ -1,0 +1,27 @@
+{
+  "name": "about-me_websote",
+  "version": "1.0.0",
+  "description": "About me Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bill716/about-me_Websote.git"
+  },
+  "keywords": [
+    "website",
+    "about",
+    "me"
+  ],
+  "author": "Bill_Hub, El_Pepe, Mr.Hollow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bill716/about-me_Websote/issues"
+  },
+  "homepage": "https://github.com/Bill716/about-me_Websote#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
